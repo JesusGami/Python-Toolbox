@@ -1,4 +1,4 @@
-# Python-Toolbox
+# Python-Toolbox  :snake:	:wrench: :hammer:
 
 Some useful tools in Python for Data Scientists.
 
