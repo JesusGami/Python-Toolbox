@@ -6,7 +6,14 @@ ToolBox I:
 
 * Your own functions
 * Functions: arguments and scope
-* Lambda functions and erros handling
+* Lambda functions and error handling
+
+ToolBox II:
+
+* Iterators 
+* List comprehensions
+* Case study
+
 
 
 
