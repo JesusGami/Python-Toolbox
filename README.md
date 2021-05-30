@@ -2,22 +2,21 @@
 
 Some useful tools in Python for Data Scientists.
 
-ToolBox I:
+**ToolBox I:**
 
 * Your own functions
 * Functions: arguments and scope
 * Lambda functions and error handling
 
-ToolBox II:
+**ToolBox II:**
 
 * Iterators 
 * List comprehensions
 * Case study
 
+**Best practices: Functions in Python**
 
 
 
 
-
-A course teaching by: Hugo Bowne-Anderson
 
